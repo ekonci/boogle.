@@ -1,0 +1,73 @@
+img {
+  width: 270px;
+}
+
+#zgornja {
+  float: right;
+  width: 290px;
+  height: 50px;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+#left {
+  float: left;
+  width: 25%;
+  background-color: yellow;
+}
+
+#main {
+  float: left;
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  margin-top: 175px;
+}
+
+#right {
+  float: right;
+  width: 25%;
+  background-color: yellow;
+}
+
+#footer {
+  position: fixed;
+  width: 100%;
+  height: 50px;
+  background-color: lightgrey;
+  bottom: 0px;
+}
+
+#spodnja {
+}
+
+input {
+  width: 436px;
+  height: 34px;
+  font-size: 18px;
+}
+
+button {
+  width: 126px;
+  height: 36px;
+  font-size: 14px;
+  border-radius: 15px;
+}
+
+#iskanje {
+  margin-right: 10px;
+}
+
+#klik {
+  margin-left: 10px;
+}
+
+td {
+  text-align: center;
+  width: 90px !important;
+  height: 40px;
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
